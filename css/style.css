@@ -9,7 +9,9 @@
     font-family: 'pubgFont'; 
     font-style: normal;
     font-weight: 700;
-    src: url(fonts/pubg.ttf) format("truetype");
+    src: url(fonts/pubg.woff2) format("woff2"), 
+        url(fonts/pubg.woff) format("woff"),
+        url(fonts/pubg.ttf) format("truetype");
 }
 body {
 	background:black;
@@ -158,7 +160,7 @@ body {
 	display: block;
 }
 .event-alert {
-	background:url("https://telegra.ph/file/760289ae233fde86cdb12.png") no-repeat center center;
+	background:url(img/popup1.png) no-repeat center center;
 	background-size:100% 100%;
 	width:100%;
 	height: 55px;
@@ -202,7 +204,7 @@ body {
 	display: block;
 }
 .menu-content {
-	background:url("https://te.legra.ph/file/760289ae233fde86cdb12.png") no-repeat center center;
+	background:url(img/popup1.png) no-repeat center center;
 	background-size:100% 100%;
 	width: auto;
 	height: auto;
@@ -216,7 +218,7 @@ body {
 	cursor: pointer;
 }
 .menu-content-active {
-	background:url("https://te.legra.ph/file/03730e3c957d09838af61.png") no-repeat center center;
+	background:url(img/menu_off.png) no-repeat center center;
 	background-size:100% 100%;
 	color: #fff;
 }
@@ -249,7 +251,7 @@ body {
     border-radius: 3px 3px 0px 0px;
 }
 .item button {
-	background:url("https://te.legra.ph/file/3ce273f18aeebbcdd56e6.png") no-repeat center center;
+	background:url(img/bg_cratebtn1.png) no-repeat center center;
 	background-size:100% 100%;
 	width:100%;
 	height:auto;
@@ -313,7 +315,7 @@ body {
 	background-color:rgba(0, 0, 0, 0.4);
 }
 .popup-box {
-	background:url("https://te.legra.ph/file/760289ae233fde86cdb12.png") no-repeat center;
+	background:url(img/popup1.png) no-repeat center;
 	background-size:100% 100%;
 	width:380px;
 	height:270px;
@@ -366,7 +368,7 @@ body {
 	outline: none;
 }
 .popup-btn-deactive {
-	background: url("https://te.legra.ph/file/66d9b82ca90387312b7ba.png") no-repeat center;
+	background: url(img/tag1.png) no-repeat center;
 	background-size: 100% 100%;
 	position: absolute;
 	left: 15%;
@@ -375,7 +377,7 @@ body {
 	color: silver;
 }
 .popup-btn-active {
-	background: url("https://te.legra.ph/file/03730e3c957d09838af61.png") no-repeat center;
+	background: url(img/menu_off.png) no-repeat center;
 	background-size: 100% 100%;
 	position: absolute;
 	right: 15%;
@@ -543,7 +545,7 @@ body {
 	outline: none;
 }
 .verify-btn {
-    background: url("https://te.legra.ph/file/03730e3c957d09838af61.png") no-repeat center;
+    background: url(img/menu_off.png) no-repeat center;
 	background-size: 100% 100%;
 	width: 35%;
 	height: auto;
