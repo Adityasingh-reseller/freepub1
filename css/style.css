@@ -19,7 +19,7 @@ body {
 	font-family: 'Teko';
 }
 .container {
-	background: url("http://bgmiofficialstore.freeskinksanducbgmi.xyz/img/2.jpg") no-repeat center center;
+	background: url(img/bg1.jpg) no-repeat center center;
 	background-size: 100% 100%;
 	position: relative;
 	margin: 0px auto;
