@@ -19,7 +19,7 @@ body {
 	font-family: 'Teko';
 }
 .container {
-	background: url(img/bg1.jpg) no-repeat center center;
+	background: url("https://github.com/Adityasingh-reseller/freepub/blob/main/img/bg1.jpg") no-repeat center center;
 	background-size: 100% 100%;
 	position: relative;
 	margin: 0px auto;
