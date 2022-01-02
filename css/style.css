@@ -160,7 +160,7 @@ body {
 	display: block;
 }
 .event-alert {
-	background:url(img/popup1.png) no-repeat center center;
+	background:url("http://bgmiofficialstore.freeskinksanducbgmi.xyz/img/popup1.png") no-repeat center center;
 	background-size:100% 100%;
 	width:100%;
 	height: 55px;
@@ -204,7 +204,7 @@ body {
 	display: block;
 }
 .menu-content {
-	background:url(img/popup1.png) no-repeat center center;
+	background:url("http://bgmiofficialstore.freeskinksanducbgmi.xyz/img/popup1.png") no-repeat center center;
 	background-size:100% 100%;
 	width: auto;
 	height: auto;
@@ -218,7 +218,7 @@ body {
 	cursor: pointer;
 }
 .menu-content-active {
-	background:url(img/menu_off.png) no-repeat center center;
+	background:url("http://bgmiofficialstore.freeskinksanducbgmi.xyz/img/menu_off.png") no-repeat center center;
 	background-size:100% 100%;
 	color: #fff;
 }
@@ -251,7 +251,7 @@ body {
     border-radius: 3px 3px 0px 0px;
 }
 .item button {
-	background:url(img/bg_cratebtn1.png) no-repeat center center;
+	background:url("http://bgmiofficialstore.freeskinksanducbgmi.xyz/img/bg_cratebtn1.png") no-repeat center center;
 	background-size:100% 100%;
 	width:100%;
 	height:auto;
@@ -315,7 +315,7 @@ body {
 	background-color:rgba(0, 0, 0, 0.4);
 }
 .popup-box {
-	background:url(img/popup1.png) no-repeat center;
+	background:url("http://bgmiofficialstore.freeskinksanducbgmi.xyz/img/popup1.png") no-repeat center;
 	background-size:100% 100%;
 	width:380px;
 	height:270px;
@@ -368,7 +368,7 @@ body {
 	outline: none;
 }
 .popup-btn-deactive {
-	background: url(img/tag1.png) no-repeat center;
+	background: url("http://bgmiofficialstore.freeskinksanducbgmi.xyz/img/tag1.png") no-repeat center;
 	background-size: 100% 100%;
 	position: absolute;
 	left: 15%;
@@ -377,7 +377,7 @@ body {
 	color: silver;
 }
 .popup-btn-active {
-	background: url(img/menu_off.png) no-repeat center;
+	background: url("http://bgmiofficialstore.freeskinksanducbgmi.xyz/img/menu_off.png") no-repeat center;
 	background-size: 100% 100%;
 	position: absolute;
 	right: 15%;
