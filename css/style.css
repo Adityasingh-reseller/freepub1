@@ -9,9 +9,9 @@
     font-family: 'pubgFont'; 
     font-style: normal;
     font-weight: 700;
-    src: url(fonts/pubg.woff2) format("woff2"), 
-        url(fonts/pubg.woff) format("woff"),
-        url(fonts/pubg.ttf) format("truetype");
+    src: url("https://github.com/Adityasingh-reseller/freepub/fonts/pubg.woff2") format("woff2"), 
+        url("https://github.com/Adityasingh-reseller/freepub/fonts/pubg.woff") format("woff"),
+        url("https://github.com/Adityasingh-reseller/freepub/fonts/pubg.ttf") format("truetype");
 }
 body {
 	background:black;
